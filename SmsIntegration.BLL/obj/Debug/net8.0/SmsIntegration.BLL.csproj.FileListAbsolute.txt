@@ -1,0 +1,17 @@
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.BLL.deps.json
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.BLL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.BLL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.Database.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.DAL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\bin\Debug\net8.0\SmsIntegration.Database.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.csproj.AssemblyReference.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.AssemblyInfoInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.AssemblyInfo.cs
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.csproj.CoreCompileInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.csproj.CopyComplete
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\refint\SmsIntegration.BLL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\SmsIntegration.BLL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.BLL\obj\Debug\net8.0\ref\SmsIntegration.BLL.dll

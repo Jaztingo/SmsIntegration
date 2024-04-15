@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=LT-000539\SQLEXPRESS;Database=SmsIntegration;user=sa;password=9123456;Persist Security Info=True;Encrypt=true;TrustServerCertificate=yes" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -ContextDir Contexts -Force

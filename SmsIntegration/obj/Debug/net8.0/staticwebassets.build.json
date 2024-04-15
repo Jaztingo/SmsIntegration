@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YC0Refe6Rw+clbXXnluh6jms5PgnCO8ZVzMpT216OIA=",
+  "Source": "SmsIntegration",
+  "BasePath": "_content/SmsIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\bin\Debug\net8.0\SmsIntegration.Database.deps.json
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\bin\Debug\net8.0\SmsIntegration.Database.runtimeconfig.json
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\bin\Debug\net8.0\SmsIntegration.Database.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\bin\Debug\net8.0\SmsIntegration.Database.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.csproj.AssemblyReference.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.AssemblyInfoInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.AssemblyInfo.cs
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.csproj.CoreCompileInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\refint\SmsIntegration.Database.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\SmsIntegration.Database.genruntimeconfig.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.Database\obj\Debug\net8.0\ref\SmsIntegration.Database.dll

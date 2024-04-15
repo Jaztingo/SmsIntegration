@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzZPMYGDQT/gz5bBNDQgu/xi+tHDS6DkWERwmey0DCGovG8GrCOyjCNppBZ8CUznrhvPRH0STG/6t3hihr1pnA==",
+  "dgSpecHash": "PRO5uNNEjgGDvwjmncyfq+902z0XkmiuLlQo7wLPqQHU4I/dXlYl10C7LuJm+bdnUiQZw+hk7URtdQOAu90yRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj",
+  "projectFilePath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G.Varamashvili\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\G.Varamashvili\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

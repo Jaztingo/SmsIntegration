@@ -8,6 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Extensions\Jobs\**" />
+    <Compile Remove="Helpers\**" />
+    <Content Remove="Extensions\Jobs\**" />
+    <Content Remove="Helpers\**" />
+    <EmbeddedResource Remove="Extensions\Jobs\**" />
+    <EmbeddedResource Remove="Helpers\**" />
+    <None Remove="Extensions\Jobs\**" />
+    <None Remove="Helpers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
@@ -20,11 +31,6 @@
     <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
     <PackageReference Include="Serilog.Sinks.Elasticsearch" Version="10.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Extensions\Jobs\" />
-    <Folder Include="Helpers\" />
   </ItemGroup>
 
   <ItemGroup>

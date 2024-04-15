@@ -9,10 +9,10 @@ namespace SmsIntegration.Middleware
     public class LoggingMiddleware
     {
         private readonly RequestDelegate next;
-        private readonly ILogger logger;
+        private readonly ILogger<LoggingMiddleware> logger;
         public LoggingMiddleware(
             RequestDelegate next,
-            ILogger logger)
+            ILogger<LoggingMiddleware> logger)
         {
             this.logger = logger;
             this.next = next;

@@ -13,3 +13,35 @@ C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.DAL\obj\
 C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\refint\SmsIntegration.DAL.dll
 C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.pdb
 C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\ref\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.DAL.deps.json
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.DAL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.Database.dll
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.Database.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.csproj.AssemblyReference.cache
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.AssemblyInfoInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.AssemblyInfo.cs
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.csproj.CoreCompileInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.sourcelink.json
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.csproj.CopyComplete
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\refint\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\sms V2\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\ref\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.DAL.deps.json
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.DAL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.Database.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\bin\Debug\net8.0\SmsIntegration.Database.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.csproj.AssemblyReference.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.AssemblyInfoInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.AssemblyInfo.cs
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.csproj.CoreCompileInputs.cache
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.sourcelink.json
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.csproj.CopyComplete
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\refint\SmsIntegration.DAL.dll
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\SmsIntegration.DAL.pdb
+C:\Users\G.Varamashvili\Desktop\myProject\SmsIntegration\SmsIntegration\SmsIntegration.DAL\obj\Debug\net8.0\ref\SmsIntegration.DAL.dll

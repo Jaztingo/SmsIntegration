@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj": {}
+    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj": {
+    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj",
         "projectName": "SmsIntegration.BLL",
-        "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj",
+        "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.BLL\\SmsIntegration.BLL.csproj",
         "packagesPath": "C:\\Users\\G.Varamashvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.BLL\\obj\\",
+        "outputPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj": {
-                "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj"
+              "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj": {
+                "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj": {
+    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj",
         "projectName": "SmsIntegration.DAL",
-        "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj",
+        "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.DAL\\SmsIntegration.DAL.csproj",
         "packagesPath": "C:\\Users\\G.Varamashvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.DAL\\obj\\",
+        "outputPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -101,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj": {
-                "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj"
+              "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj": {
+                "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj": {
+    "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj",
+        "projectUniqueName": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj",
         "projectName": "SmsIntegration.Database",
-        "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj",
+        "projectPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.Database\\SmsIntegration.Database.csproj",
         "packagesPath": "C:\\Users\\G.Varamashvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration.Database\\obj\\",
+        "outputPath": "C:\\Users\\G.Varamashvili\\Desktop\\myProject\\SmsIntegration\\SmsIntegration\\SmsIntegration.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

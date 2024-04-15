@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmsIntegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51098f6f4187fa6adfec1ff0ec74915ee9fbb33")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmsIntegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmsIntegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

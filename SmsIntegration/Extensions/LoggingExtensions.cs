@@ -14,7 +14,7 @@ namespace SmsIntegration.Extensions
                 out AutoRegisterTemplateVersion parsedVersion)
                 ? parsedVersion
                 : AutoRegisterTemplateVersion.ESv7;
-            var applicationName = "SmsIntegration";
+            var applicationName = "sms-integration";
             var applicationVersion = "V1";
 
             Log.Logger = new LoggerConfiguration()
@@ -23,8 +23,7 @@ namespace SmsIntegration.Extensions
             .Enrich.WithProperty("HostName", Environment.MachineName)
             .Enrich.FromLogContext()
             .MinimumLevel.Warning()
-            .MinimumLevel.Override("PBG", LogEventLevel.Information)
-            .MinimumLevel.Override("PB", LogEventLevel.Information)
+            .MinimumLevel.Override("Sms", LogEventLevel.Information)
             .WriteTo.Elasticsearch(new ElasticsearchSinkOptions(new Uri(baseAddress))
             {
                 AutoRegisterTemplate = true,
@@ -37,14 +36,14 @@ namespace SmsIntegration.Extensions
                             builder.Configuration["ElasticsearchUser"],
                             builder.Configuration["ElasticsearchPassword"]);
                     }
-                        
+
                     x.ServerCertificateValidationCallback((o, certificate, chain, errors) => true);
                     return x;
                 },
                 OverwriteTemplate = true,
                 NumberOfReplicas = 0,
                 NumberOfShards = 1,
-                IndexFormat = "pbg-bloomberg-{0:yyyy.MM}"
+                IndexFormat = "sms-integration-{0:yyyy.MM}"
             })
             .CreateLogger();
             builder.Services.AddLogging(loggingBuilder => loggingBuilder.AddSerilog(dispose: true));

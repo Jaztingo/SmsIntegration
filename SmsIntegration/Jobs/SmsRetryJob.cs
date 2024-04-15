@@ -18,7 +18,7 @@ namespace SmsIntegration.Jobs
             IScheduler sched = await sf.GetScheduler();
 
             // define the job and tie it to our HelloJob class
-            IJobDetail job = JobBuilder.Create<AgsMonitoringJob>()
+            IJobDetail job = JobBuilder.Create<SmsRetryJobs>()
                 .WithIdentity("SmsIntegration.Jobs.SmsRetry")
                 .Build();
 
@@ -38,13 +38,13 @@ namespace SmsIntegration.Jobs
             await sched.Start();
         }
     }
-    public class AgsMonitoringJob : IJob
+    public class SmsRetryJobs : IJob
     {
         private readonly ISmsRepository smsRepository;
         private readonly ISmsServices smsServices;
         private readonly ILogger logger;
 
-        public AgsMonitoringJob()
+        public SmsRetryJobs()
         {
             smsRepository = Program.GeneralJobServiceProvider.GetService<ISmsRepository>();
             smsServices = Program.GeneralJobServiceProvider.GetService<ISmsServices>();
